@@ -3,7 +3,15 @@ mindmap
   root((Quản lý thiết bị y tế))
     Người dùng
       Quản lý tài khoản
+         Đăng nhập
+         Đăng xuất
+         Thay đổi mật khẩu
+         Quên mật khẩu
+         
       Phân quyền
+         Quản lý nhóm quyền
+         Quản lý phân quyền
+
     Đối tác
       Nhà cung cấp
       Đơn vị bảo trì
