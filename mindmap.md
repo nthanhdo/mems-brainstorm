@@ -7,15 +7,28 @@ mindmap
          Đăng xuất
          Thay đổi mật khẩu
          Quên mật khẩu
-         
       Phân quyền
          Quản lý nhóm quyền
          Quản lý phân quyền
 
     Đối tác
       Nhà cung cấp
-      Đơn vị bảo trì
-      Đơn vị sửa chữa
+         Thêm
+            Mã Công ty 
+               Người dùng nhập 
+               Người dùng không nhập
+            Tên Công ty - bắt buộc
+            Địa chỉ - bắt buộc
+            Người liên hệ
+            Điện thoại - bắt buộc
+            Fax
+            Nhóm nhà cung cấp - có thể chọn nhiều
+                
+            
+
+         Sửa
+         Xoá
+         Tìm kiếm
     Khoa phòng
       Quản lý danh sách khoa phòng
       
