@@ -16,16 +16,15 @@ mindmap
          Thêm
             Mã Công ty 
                Người dùng nhập 
-               Người dùng không nhập
+               Người dùng không nhập - Hệ thống auto tăng theo công thức CTY-001
             Tên Công ty - bắt buộc
+            Mã số thuế
+            Nhóm nhà cung cấp - có thể chọn nhiều
             Địa chỉ - bắt buộc
             Người liên hệ
             Điện thoại - bắt buộc
             Fax
-            Nhóm nhà cung cấp - có thể chọn nhiều
-                
-            
-
+            Ghi chú
          Sửa
          Xoá
          Tìm kiếm
