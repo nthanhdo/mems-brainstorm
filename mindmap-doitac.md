@@ -1,7 +1,7 @@
 ```mermaid
 mindmap
-  root((Quản lý thiết bị y tế))
-     Danh mục Nhà cung cấp
+  root((Danh mục Nhà cung cấp))
+     
         Thêm
           Mã Công ty 
                Người dùng nhập 
