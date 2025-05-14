@@ -46,7 +46,7 @@ mindmap
     Quản lý hợp đồng
       Mua sắm thiết bị
       Mua sắm vật tư
-      Kiểm định-Hiệu chuẩn
+      Hợp đồng dịch vụ
       
     Định kỳ
       Kết quả bảo trì
