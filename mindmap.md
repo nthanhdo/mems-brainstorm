@@ -30,10 +30,10 @@ mindmap
 
     Quản lý thiết bị
       Thông tin thiết bị
-      Hồ sơ thiết bị
-      Hệ thống thiết bị
-      Tiếp nhận bàn giao
-      Điều chuyển thiết bị
+      Giao nhận
+      Điều chuyển
+      Khấu hao
+      Thanh lý
 
     Quản lý dự trù
       Mua sắm thiết bị
@@ -41,17 +41,19 @@ mindmap
       Bảo trì thiết bị
       Kiểm định-Hiệu chuẩn
 
+    Quản lý đấu thầu
+
     Quản lý hợp đồng
       Mua sắm thiết bị
       Mua sắm vật tư
       Kiểm định-Hiệu chuẩn
       
-    Quản lý bảo trì
+    Định kỳ
       Kết quả bảo trì
       Lịch sử bảo trì
       Cảnh báo bảo trì
 
-    Quản lý Sửa chữa
+    Hư hỏng-Sửa chữa
       Yêu cầu sửa chữa
       Khảo sát sửa chữa
       Đề xuất sửa chữa
