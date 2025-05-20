@@ -11,9 +11,7 @@ mindmap
           Số điện thoại liên hệ
           Vị trí trong khoa/phòng hoặc bệnh viện
           Giờ làm việc của bộ phận
-          Trạng thái hoạt động của bộ phận
-          Thời điểm tạo bản ghi
-          Thời điểm cập nhật gần nhất  
+          Trạng thái hoạt động của bộ phận 
         Sửa
           Cho phép chọn 1 dòng từ bảng danh sách, bấm Sửa hoặc phím Ctrl+E
           Form sẽ load dữ liệu lên để chỉnh sửa
