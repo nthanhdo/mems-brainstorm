@@ -3,15 +3,15 @@ mindmap
   root((Danh mục khoa phòng))
      
         Thêm
-          Mã Phòng ban
-               Người dùng nhập giới hạn 10 ký tự, không dấu cách, không ký tự đặc biệt
-               Không được trùng
-          Tên phòng ban 
-               Người dùng nhập 
-               Không được trùng
-          Mô tả 
-          Ghi chú
-          Có kho (Có/Không)           
+          Mã khoa/phòng duy nhất
+          Tên khoa/phòng
+          Loại khoa/phòng
+          Mô tả chức năng nhiệm vụ
+          Họ tên người phụ trách khoa/phòng
+          Số điện thoại liên hệ
+          Vị trí trong bệnh viện (tầng/khu vực)
+          Giờ làm việc chính
+          Trạng thái hoạt động của khoa/phòng      
         Sửa
          Cho phép chọn 1 dòng từ bảng danh sách, bấm Sửa hoặc phím Ctrl+E
          Form sẽ load dữ liệu lên để chỉnh sửa
