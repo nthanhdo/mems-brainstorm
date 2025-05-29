@@ -3,18 +3,17 @@
 mindmap
   root(Danh mục nhân sự)
         Thêm
-          Mã định danh nhân viên	Tự tăng hoặc UUID
-          Mã nhân viên	Dùng cho truy xuất, in ấn
+          Mã định danh nhân viên	
+          Mã nhân viên	
           Họ tên đầy đủ	
-          Giới tính	Male / Female / Other
+          Giới tính	
           Ngày sinh	
           Số điện thoại liên hệ	
           Email	
-          Chức vụ	Kỹ sư thiết bị, Quản lý thiết bị,...
-          Mã khoa/phòng chủ quản	Khóa ngoại từ bảng Departments
-          Vai trò trong hệ thống	ADMIN / TECHNICIAN / VIEWER,...
-          Tài khoản đăng nhập	Unique
-          Mã hóa mật khẩu	Bảo mật, không lưu mật khẩu gốc
+          Chức vụ	
+          Mã khoa/phòng chủ quản	
+          Vai trò trong hệ thống	
+          Tài khoản đăng nhập ->chọn tử danh sách user
           Trạng thái hoạt động	ACTIVE / INACTIVE
           Thời điểm tạo	
           Thời điểm cập nhật	
