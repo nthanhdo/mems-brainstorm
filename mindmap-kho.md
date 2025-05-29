@@ -3,14 +3,14 @@ mindmap
   root((Danh mục quốc gia))
      
         Thêm
-          Mã định danh kho	Tự tăng hoặc UUID
-          Mã kho	Ví dụ: "KVT01", "KKT02"
-          Tên kho	Kho thiết bị chính, Kho khoa ngoại,...
-          Loại kho	CHINH / KHOA / BẢO TRÌ / TẠM THỜI
-          Địa điểm vật lý của kho	Tòa nhà B, tầng 1,...
-          FK đến bảng Employee	
+          Mã định danh kho
+          Mã kho	
+          Tên kho	Kho 
+          Loại kho	
+          Địa điểm vật lý của kho	
+          Người quản lý
           Số điện thoại kho 	
-          Trạng thái hoạt động	ACTIVE / INACTIVE
+          Trạng thái hoạt động	
           Thời gian tạo	
           Thời gian cập nhật	
         Sửa
