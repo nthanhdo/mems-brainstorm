@@ -9,7 +9,7 @@ mindmap
           Loại kho	CHINH / KHOA / BẢO TRÌ / TẠM THỜI
           Địa điểm vật lý của kho	Tòa nhà B, tầng 1,...
           FK đến bảng Employee	
-          Số điện thoại kho (nếu có)	
+          Số điện thoại kho 	
           Trạng thái hoạt động	ACTIVE / INACTIVE
           Thời gian tạo	
           Thời gian cập nhật	
