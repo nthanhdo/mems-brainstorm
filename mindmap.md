@@ -30,6 +30,7 @@ mindmap
 
     Quản lý thiết bị
       Thông tin thiết bị
+      Định mức sử dụng thiết bị
       Giao nhận
       Điều chuyển
       Khấu hao
