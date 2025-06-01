@@ -30,4 +30,5 @@ mindmap
       Cho phép import danh sách tiêu chuẩn định mức từ file excel
       Các cột import gồm: Nhóm, số thứ tự, tên loại thiết bị, đơn vi tính, số lượng định mức 1, ghi chú (thông tư)
       Mã định mức đước gép từ cột nhóm + số thứ tự.
+      
 ```
