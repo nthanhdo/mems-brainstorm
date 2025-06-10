@@ -66,7 +66,7 @@ mindmap
           Có
             Tần suất thực hiện
             Số ngày cảnh báo trước
-  Xoá
-  Tìm kiếm
+    Xoá
+    Tìm kiếm
       
 ```
