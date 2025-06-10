@@ -88,6 +88,5 @@ mindmap
         Model
         Serial
         Hãng sản xuất
-
-      
+        Nước sản xuất
 ```
