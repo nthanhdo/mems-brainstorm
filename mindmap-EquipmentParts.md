@@ -1,19 +1,22 @@
 ```mermaid
 mindmap
-  root((Linh kiện/Phụ kiện theo thiết bị))
+  root((Linh kiện theo thiết bị))
       Thêm
         ID thiết bị
         Mã số
         Tên 
         Đơn vị tính
+        Nhóm: Linh kiện/Phụ kiện/Phụ tùng
         Model
         Hãng sản xuất
         Nước sản xuất
         Số lượng
         Tình trạng
       Sửa
+        Mã số
         Tên 
         Đơn vị tính
+        Nhóm: Linh kiện/Phụ kiện/Phụ tùng
         Model
         Hãng sản xuất
         Nước sản xuất
