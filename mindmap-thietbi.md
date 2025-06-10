@@ -44,19 +44,19 @@ mindmap
         Giá trị khấu hao luỹ kế
         Giá trị còn lại (= Nguyên giá - Giá trị khấu hao luỹ kế)
       Cập nhật thông tin định kỳ
-        Bảo trì (0=Không/1=Có)
+        Bảo trì
             Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
             Tần suất thực hiện (?lần/1 năm)
             Số ngày cảnh báo trước
-        Kiểm định (0=Không/1=Có)
+        Kiểm định
             Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
             Tần suất thực hiện (?lần/1 năm)
             Số ngày cảnh báo trước
-        Hiệu chuẩn (0=Không/1=Có)
+        Hiệu chuẩn
             Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
             Tần suất thực hiện (?lần/1 năm)
             Số ngày cảnh báo trước
-        Kiểm chuẩn (0=Không/1=Có)
+        Kiểm chuẩn
             Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
             Tần suất thực hiện (?lần/1 năm)
             Số ngày cảnh báo trước
