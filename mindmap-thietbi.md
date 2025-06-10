@@ -45,20 +45,20 @@ mindmap
         Giá trị còn lại = Nguyên giá - Giá trị khấu hao luỹ kế
     Cập nhật thông tin định kỳ
         Bảo trì
-            Hình thức thực hiện là 0=Tự thực hiện/1=Thuê ngoài
-            Tần suất thực hiện :?lần/1 năm
+            Hình thức thực hiện là: 
+            Tần suất thực hiện
             Số ngày cảnh báo trước
         Kiểm định
-            Hình thức thực hiện: 0=Tự thực hiện/1=Thuê ngoài
-            Tần suất thực hiện (?lần/1 năm)
+            Hình thức thực hiện: Tự thực hiện/Thuê ngoài
+            Tần suất thực hiện
             Số ngày cảnh báo trước
         Hiệu chuẩn
-            Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
-            Tần suất thực hiện (?lần/1 năm)
+            Hình thức thực hiện: Tự thực hiện/Thuê ngoài
+            Tần suất thực hiện
             Số ngày cảnh báo trước
         Kiểm chuẩn
-            Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
-            Tần suất thực hiện (?lần/1 năm)
+            Hình thức thực hiện: Tự thực hiện/Thuê ngoài
+            Tần suất thực hiện
             Số ngày cảnh báo trước
       Xoá
         
