@@ -3,18 +3,18 @@ mindmap
   root((Thiết bị))
       Thêm
         ID thiết bị
-        Mã thiết bị (mã riêng của BV)
+        Mã thiết bị
         Tên thiết bị
         Tên trên hoá đơn
-        Loại thiết bị (Lấy từ danh sách loaik thiết bị)
-        Nhóm thiết bị (Lấy từ danh sách nhóm thiết bị)
-        Đinh mức sử dụng thiết bị (lấy từ định mức sử dụng thiết bị)
+        Loại thiết bị
+        Nhóm thiết bị
+        Đinh mức sử dụng thiết bị
         Hãng sản xuất
         Nước sản xuất
         Năm sản xuất
         Model
         Serial
-        Số lượng (là = 1)
+        Số lượng
         Đơn giá
         Thành tiền
         Tình trạng
@@ -26,18 +26,19 @@ mindmap
         Vị trí đặt thiết bị
         Mã số lưu hành thiết bị
       Cập nhật thông tin mua sắm
-        Nhà cung cấp (lấy từ danh sách nhà cung cấp)
+        Nhà cung cấp
         Số hợp đồng
         Ngày hợp đồng
         Số biên bản giao nhận
         Ngày giao nhận
         Nguồn vốn mua sắm
-        Bảo hành (Có/Không)
+      Cập nhật thông tin bảo hành
+        Còn/Không
         Thời hạn bảo hành
         Ngày bắt đầu bảo hành
         Ngày kết thúc bảo hành
       Cập nhật thông tin khấu hao
-        Nguyên giá (bằng thành tiền)
+        Nguyên giá
         Số tháng khấu hao
         Ngày bắt đầu khấu hao
         Giá trị khấu hao tháng (= Nguyên giá / Số tháng)
