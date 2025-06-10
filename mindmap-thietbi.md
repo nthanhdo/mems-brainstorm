@@ -40,16 +40,16 @@ mindmap
         Nguyên giá
         Số tháng khấu hao
         Ngày bắt đầu khấu hao
-        Giá trị khấu hao tháng (= Nguyên giá / Số tháng)
+        Giá trị khấu hao tháng = Nguyên giá / Số tháng
         Giá trị khấu hao luỹ kế
-        Giá trị còn lại (= Nguyên giá - Giá trị khấu hao luỹ kế)
+        Giá trị còn lại = Nguyên giá - Giá trị khấu hao luỹ kế
     Cập nhật thông tin định kỳ
         Bảo trì
-            Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
-            Tần suất thực hiện (?lần/1 năm)
+            Hình thức thực hiện là 0=Tự thực hiện/1=Thuê ngoài
+            Tần suất thực hiện :?lần/1 năm
             Số ngày cảnh báo trước
         Kiểm định
-            Hình thức thực hiện (0=Tự thực hiện/1=Thuê ngoài)
+            Hình thức thực hiện: 0=Tự thực hiện/1=Thuê ngoài
             Tần suất thực hiện (?lần/1 năm)
             Số ngày cảnh báo trước
         Hiệu chuẩn
