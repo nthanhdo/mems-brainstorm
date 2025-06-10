@@ -66,7 +66,28 @@ mindmap
           Có
             Tần suất thực hiện
             Số ngày cảnh báo trước
+    Chứng từ đính kèm (Catalog, CO, CQ,...)
+      Loại chứng từ
+      File chứng từ
+      Upload file chứng từ
+    Linh/Phụ kiện
+      Mã linh/phụ kiện
+      Tên linh/phu kiện
+      Đơn vị tính
+      Model
+      Serial
+      Đơn vị tính
+      Số lượng
     Xoá
+      Kiểm tra đã có dữ liệu phát sinh liên quan đến thiết bi: như sửa chữa, bảo trì, kiểm định hiệu chuẩn, ...
+        Có : Không có xoá
+        Không: Hỏi để và xác nhận để xoá.
     Tìm kiếm
+      Tìm kiếm thiết bị theo kết hợp hoặc đọc lập theo các trường
+        Tên thiét bị
+        Model
+        Serial
+        Hãng sản xuất
+
       
 ```
