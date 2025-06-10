@@ -44,22 +44,26 @@ mindmap
         Giá trị khấu hao luỹ kế
         Giá trị còn lại = Nguyên giá - Giá trị khấu hao luỹ kế
     Cập nhật thông tin định kỳ
-        Bảo trì
-            Hình thức thực hiện là: 
-            Tần suất thực hiện
-            Số ngày cảnh báo trước
-        Kiểm định
-            Hình thức thực hiện: Tự thực hiện/Thuê ngoài
-            Tần suất thực hiện
-            Số ngày cảnh báo trước
-        Hiệu chuẩn
-            Hình thức thực hiện: Tự thực hiện/Thuê ngoài
-            Tần suất thực hiện
-            Số ngày cảnh báo trước
-        Kiểm chuẩn
-            Hình thức thực hiện: Tự thực hiện/Thuê ngoài
-            Tần suất thực hiện
-            Số ngày cảnh báo trước
+        Bảo trì: Có/Không
+            Nếu có: 
+              Hình thức thực hiện
+              Tần suất thực hiện
+              Số ngày cảnh báo trước
+        Kiểm định : Có/Không
+              Nếu có:
+                Hình thức thực hiện: Tự thực hiện/Thuê ngoài
+                Tần suất thực hiện
+                Số ngày cảnh báo trước
+        Hiệu chuẩn: Có/Không
+              Nếu có:
+                Hình thức thực hiện: Tự thực hiện/Thuê ngoài
+                Tần suất thực hiện
+                Số ngày cảnh báo trước
+        Kiểm chuẩn: Có/Không
+              Nếu có:
+                Hình thức thực hiện: Tự thực hiện/Thuê ngoài
+                Tần suất thực hiện
+                Số ngày cảnh báo trước
       Xoá
         
       Tìm kiếm
