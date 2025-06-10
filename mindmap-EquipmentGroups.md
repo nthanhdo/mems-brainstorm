@@ -1,7 +1,7 @@
 
 ```mermaid
 mindmap
-  root((Nhóm thiếtbij))
+  root((Nhóm thiết bị))
       Thêm
         Mã nhóm thiết bị
         Tên nhóm thiết bị
@@ -10,7 +10,7 @@ mindmap
         Tên nhóm thiết bị
         Trạng thái
       Xoá
-        Cảnh báo không cho xoá nếu có thiết bị thuộc nhóm
+        Cảnh báo không cho xoá nếu có loại thiết bị thuộc nhóm này
       Tìm kiếm
         Tìm theo tên nhóm thiết bị
       
